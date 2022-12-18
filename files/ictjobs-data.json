@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "PaaS \u2013 Senior Platform Engineer",
+    "company": "Smals",
+    "location": "Brussels",
+    "keywords": "Senior Platform Engineer",
+    "url": "https://www.ictjob.be/en/job/paas-senior-platform-engineer/1-167809"
+  },
+  {
+    "id": "2",
+    "title": "PaaS - Junior Platform Engineer",
+    "company": "Smals",
+    "location": "Brussels",
+    "keywords": "Junior Platform Engineer",
+    "url": "https://www.ictjob.be/en/job/paas-junior-platform-engineer/1-167807"
+  },
+  {
+    "id": "3",
+    "title": "Quantexa Developer",
+    "company": "Egov Select",
+    "location": "Brussels",
+    "keywords": "Quantexa Scala",
+    "url": "https://www.ictjob.be/en/job/egov-select-quantexa-developer/5-158790"
+  },
+  {
+    "id": "4",
+    "title": "Java Engineer",
+    "company": "Vivid Resourcing",
+    "location": "Mechelen",
+    "keywords": "Java, Spring Boot, VueJS",
+    "url": "https://www.ictjob.be/en/job/vivid-resourcing-java-engineer/2-166873"
+  },
+  {
+    "id": "5",
+    "title": "Backend Engineer",
+    "company": "Vivid Resourcing",
+    "location": "Kontich",
+    "keywords": "Junior Java, Cloud",
+    "url": "https://www.ictjob.be/en/job/vivid-resourcing-backend-engineer/1-167800"
+  }
+]
